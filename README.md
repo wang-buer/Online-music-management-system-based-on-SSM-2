@@ -1,10 +1,4 @@
-# 基于SSM的在线音乐管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ：**音乐2** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于SSM的在线音乐管理系统2
 
 ## 1、项目介绍
 
@@ -14,7 +8,7 @@
 
 用户：分类查询音乐、购买音乐、在线播放音乐、登录注册、收藏音乐、查看历史订单等
 
-![项目功能结构图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101610655.jpg)
+![项目功能结构图](https://www.codeshop.fun/Typora-Images/202208101610655.jpg)
 
 
 ## 2、项目技术
@@ -37,55 +31,52 @@
 
 ### 4.1 登录
 
-![前端登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101611579.jpg)
+![前端登录](https://www.codeshop.fun/Typora-Images/202208101611579.jpg)
 
-![后端登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101611332.jpg)
+![后端登录](https://www.codeshop.fun/Typora-Images/202208101611332.jpg)
 
 ### 4.2 前端模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101612646.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202208101612646.jpg)
 
-![音乐详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101612087.jpg)
+![音乐详情](https://www.codeshop.fun/Typora-Images/202208101612087.jpg)
 
 ### 4.3管理员 模块
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101612199.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202208101612199.jpg)
 
-![管理员-会员类别管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101612447.jpg)
+![管理员-会员类别管理](https://www.codeshop.fun/Typora-Images/202208101612447.jpg)
 
-![管理员-会员信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101612075.jpg)
+![管理员-会员信息管理](https://www.codeshop.fun/Typora-Images/202208101612075.jpg)
 
-![管理员-会员详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101612928.jpg)
+![管理员-会员详情](https://www.codeshop.fun/Typora-Images/202208101612928.jpg)
 
-![管理员-音乐分类管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101612862.jpg)
+![管理员-音乐分类管理](https://www.codeshop.fun/Typora-Images/202208101612862.jpg)
 
-![管理员-推荐管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101612745.jpg)
+![管理员-推荐管理](https://www.codeshop.fun/Typora-Images/202208101612745.jpg)
 
-![管理员-付费音乐管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101612014.jpg)
+![管理员-付费音乐管理](https://www.codeshop.fun/Typora-Images/202208101612014.jpg)
 
-![管理员-音乐购买订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101612692.jpg)
+![管理员-音乐购买订单管理](https://www.codeshop.fun/Typora-Images/202208101612692.jpg)
 
-![管理员-购买发货](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101612562.jpg)
+![管理员-购买发货](https://www.codeshop.fun/Typora-Images/202208101612562.jpg)
 
-![管理员-发货管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101612471.jpg)
+![管理员-发货管理](https://www.codeshop.fun/Typora-Images/202208101612471.jpg)
 
-![管理员-会员购买](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101612200.jpg)
+![管理员-会员购买](https://www.codeshop.fun/Typora-Images/202208101612200.jpg)
 
 ### 4.4 用户模块
 
-![用户-后台购买记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101612795.jpg)
+![用户-后台购买记录](https://www.codeshop.fun/Typora-Images/202208101612795.jpg)
 
-![收藏管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101613247.jpg)
+![收藏管理](https://www.codeshop.fun/Typora-Images/202208101613247.jpg)
 
 ### 4.5文档目录
 
-![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101611621.jpg)
+![文档目录](https://www.codeshop.fun/Typora-Images/202208101611621.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ：**音乐2** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**音乐**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
